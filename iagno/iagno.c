@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include "iagno.h"
-
+ 
 int main(int argc, char *argv[]) {
 	// 重定向标准输入，用于调试
 	//freopen("input.txt", "rb", stdin);

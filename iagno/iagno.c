@@ -238,3 +238,4 @@ Bool isNoneChess(Point p) {
 Bool inBoard(Point p) {
 	return (p.x > 0 && p.x < 9) && (p.y > 0 && p.y < 9);
 }
+ 

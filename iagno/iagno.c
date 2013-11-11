@@ -52,13 +52,13 @@ void help() {
 void show() {
     int i, j;
     printf("\n  ");
-	// 输出y轴
+    // 输出y轴
     for (i = 1; i < 9; i++)
         printf("%c ", i + '0');
     printf("\n");
 
     for (i = 1; i < 9; i++) {
-		// 输出x轴
+	// 输出x轴
         printf("%c ", i + '0');
 		// 输出棋子
         for (j = 1; j < 9; j++)

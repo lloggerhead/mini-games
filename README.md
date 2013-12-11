@@ -1,2 +1,2 @@
-mini-games
+mini-game
 ==========
